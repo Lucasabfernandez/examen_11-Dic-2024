@@ -10,11 +10,8 @@
    * Acompaña al plan, un sistema de control en los ejercicios físicos rutinarios a desarrollar, _verificando pulsaciones_.
    
    ### Se adjunta el Manual de Protocolo
-   [[Manual de Protocolo de Emergencia y Evacuación](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
-   
+  https://docs.google.com/document/d/1SH6SQ7m9nN5gk1BMXre1mW8YmE0nNr1suFQW0_R0Ywc/edit?tab=t.0   
    ### Se adjunta una muestra de Control Indice de Accidentes e Incidentes
-   [[Control Indice de Accidentes e Incidentes](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
-   
+  https://docs.google.com/spreadsheets/d/12Wq9Uypl5HzKGKF1p4ETJZFhx7EH3Lv4xDFOVKyYHww/edit?gid=70665622#gid=70665622 
    ### Presentaciones sobre Protocolo de Emergencia y Evacuación.
-   [[Presentaciones](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
-   
+  https://gamma.app/docs/Manual-de-Protocolos-de-Emergencia-y-Evacuacion-c57he4982z4fgmj?mode=doc
